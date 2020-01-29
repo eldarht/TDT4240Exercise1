@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exercise1</string>
+    <string name="txtModeFree">Free movement</string>
+    <string name="txtModeManual">Touch controll</string>
+    <string name="txtModeMultiple">Collision simulation</string>
+    <string name="txtPosition">Position: Nan</string>
+</resources>
